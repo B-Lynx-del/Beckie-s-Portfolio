@@ -22,7 +22,7 @@ Each project here reflects a milestone in my learning adventure:
 - **Registration Form** — Form validation meets UX thinking
 - **Survey Form** — Blending input elements into colorful interaction
 
-👉 [View my repositories on GitHub](#) — *(Add your actual GitHub link here!)*
+👉 [View my repositores-https://github.com/B-Lynx-del](#) — *(Add your actual GitHub link here!)*
 
 ##  Interests
 
